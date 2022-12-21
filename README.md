@@ -1,3 +1,3 @@
 # git-playground
-Playground for testing git
+Play-ground for testing git
 
