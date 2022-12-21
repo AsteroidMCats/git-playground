@@ -6,5 +6,5 @@ int main() {
     int num;
     cout << "Give me a number: ";
     cin >> num;
-    cout << "Your number is " << num << endl;
+    cout << "Your number times 10 is " << num*10 << endl;
 }
